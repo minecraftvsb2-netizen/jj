@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Power Wake Guard</string>
+    <string name="service_description">Counts how many times the screen is woken in a row and puts the screen back to sleep unless you reach your chosen number of presses. It does not read anything on your screen.</string>
+</resources>
